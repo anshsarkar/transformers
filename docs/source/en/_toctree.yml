@@ -541,6 +541,8 @@
         title: Audio Spectrogram Transformer
       - local: model_doc/clap
         title: CLAP
+      - local: model_doc/encodec
+        title: EnCodec
       - local: model_doc/hubert
         title: Hubert
       - local: model_doc/mctct
@@ -606,6 +608,8 @@
         title: GIT
       - local: model_doc/groupvit
         title: GroupViT
+      - local: model_doc/instructblip
+        title: InstructBLIP
       - local: model_doc/layoutlm
         title: LayoutLM
       - local: model_doc/layoutlmv2
